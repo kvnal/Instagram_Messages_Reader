@@ -7,6 +7,6 @@
 2. Extract *.zip/.rar* and locate *__messages.txt__* file.
 3. Run *run.py* in cmd/terminal.
     * To get all participants
-        ```python python run.py -p "/path_To_messages.txt" ```
+        ```python run.py -p "/path_To_messages.txt" ```
     * To get all chats of perticular _username_
-        ```python python run.py -c "<username>" "/path_To_messages.txt" ```
+        ```python run.py -c "<username>" "/path_To_messages.txt" ```
