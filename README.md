@@ -1,4 +1,5 @@
-# GET Instagram chats in Readable Format
+# Get Instagram chats in Readable Format
+
 ## How To Use
 1. Get a copy of what you've shared on Instagram.
     * GoTo settings > Security > Download Data 
